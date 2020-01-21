@@ -1,4 +1,4 @@
-# Part Manager
+  # Part Manager
 
 > Python/Tkinter desktop GUI app to manage customer computer parts. This app uses Sqlite3 to store data
 
@@ -24,3 +24,4 @@ pyinstaller --onefile --add-binary='/System/Library/Frameworks/Tk.framework/Tk':
 - Version: 1.0.0
 - License: MIT
 - Author: Brad Traversy
+[![Run on Repl.it](https://repl.it/badge/github/bradtraversy/part_manager)](https://repl.it/github/bradtraversy/part_manager)
